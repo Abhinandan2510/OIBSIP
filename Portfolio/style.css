@@ -1,0 +1,55 @@
+.container img{
+    width: 1500px;
+    height: 800px;
+    opacity:0.6;
+    margin: 5px;
+    
+
+}
+.container{
+    background-color: rgb(0, 0, 0);
+}
+
+p{
+    text-align: center;
+    background-color: aliceblue;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.container h1{
+    text-align: center;
+    background-color: white;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+#inside{
+    opacity: 1;
+    border-radius: 50%;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+}
+
+#first{
+    width: 40px;
+    margin-left:670px;
+}
+#second{
+    width: 40px;
+    margin-left:50px ;
+
+}
+
+#third{
+    width: 40px;
+    margin-left:45px;
+    
+    
+}
+
+.foot img{
+    cursor: pointer;
+}
